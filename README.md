@@ -21,7 +21,7 @@
 - You can find my projects and repository here. 
 
 <p align="center">
-**Check my website for more details:-**  https://cybersam404.github.io/
+# Check my website for more details:- [cybersam404.github.io](https://cybersam404.github.io/)
 </p>
 
 <h3 align="left">Connect with me:</h3>
