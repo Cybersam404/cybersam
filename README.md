@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Cybersecurity,Web Hacking, International Relations**
 
-- 📫 You can reach me officialy on my email **cybersam404@gmail.com**
+- 📫 You can reach me officially on my email **cybersam404@gmail.com**
 
 - You can find my projects and repository here. 
 
