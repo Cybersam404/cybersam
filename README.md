@@ -14,7 +14,7 @@
 
 - 📫 You can also find me on [https://cybersam.bio.link](https://cybersam.bio.link)
 
-- 💬 Ask me about **SEO, Blogging, Web Design, Canva, Cybersecurity, Political Science & International Relations**
+- 💬 Ask me about **SEO, Blogging, Web Design, Cybersecurity, Political Science & International Relations**
 
 - 📫 You can reach me officially on my email **cybersam404@gmail.com**
 
