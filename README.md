@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/cybersam404" target="blank"><img src="https://img.shields.io/twitter/follow/cybersam404?logo=twitter&style=for-the-badge" alt="cybersam404" /></a> </p>
 
-- 🔭 I’m interested in **Cybersecurity, Red-teaming, Blogging, OSINT**
+- 🔭 I’m interested in **Digital Marketing, Blogging, Cybersecurity, OSINT**
 
-- 🌱 I’m currently learning **Web application penetration testing**
+- 🌱 I’m currently learning **Digital Marketing And Evolving**
 
-- 👨‍💻 Some of my projects are available here at my github profile. [https://github.com/Cybersam404](https://github.com/Cybersam404)
+- 👨‍💻 Some of my projects are available here at my github profile. [https://cybersam404.github.io/](https://cybersam404.github.io/)
 
 - 📫 You can also find me on [https://cybersam.bio.link](https://cybersam.bio.link)
 
-- 💬 Ask me about **Cybersecurity,Web Hacking, International Relations**
+- 💬 Ask me about **SEO, Blogging, Canva, Google Analytics, Cybersecurity, Political Science & International Relations**
 
 - 📫 You can reach me officially on my email **cybersam404@gmail.com**
 
-- You can find my projects and repository here. 
+- You can find my projects👇. 
 
 
   <h2 align="center">Check my website for more details:- https://cybersam404.github.io/</h2>
