@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Jegede</h1>
-<h3 align="center">Passionate Cybersecurity Enthusiast | Security Researcher</h3>
+<h3 align="center">Passionate Digital Marketing & Cybersecurity Enthusiast | ProBlogger</h3>
 <img align="right" alt="Ai" width="400" src="https://media.tenor.com/sZVtHiyzZIsAAAAC/ai-cyborg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersam404&label=Profile%20views&color=0e75b6&style=flat" alt="cybersam404" /> </p>
