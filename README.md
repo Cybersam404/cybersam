@@ -8,13 +8,13 @@
 
 - 🔭 I’m interested in **Digital Marketing, Blogging, Cybersecurity, OSINT**
 
-- 🌱 I’m learning **Digital Marketing and currently Evolving**
+- 🌱 I’m learning **Digital Marketing and currently evolving**
 
 - 👨‍💻 Some of my projects are available here at my github profile. [https://cybersam404.github.io/](https://cybersam404.github.io/)
 
 - 📫 You can also find me on [https://cybersam.bio.link](https://cybersam.bio.link)
 
-- 💬 Ask me about **SEO, Blogging, Canva, Google Analytics, Cybersecurity, Political Science & International Relations**
+- 💬 Ask me about **SEO, Blogging, Web Design, Canva, Cybersecurity, Political Science & International Relations**
 
 - 📫 You can reach me officially on my email **cybersam404@gmail.com**
 
