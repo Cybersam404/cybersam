@@ -8,7 +8,7 @@
 
 - 🔭 I’m interested in **Digital Marketing, Blogging, Cybersecurity, OSINT**
 
-- 🌱 I’m currently learning **Digital Marketing And Evolving**
+- 🌱 I’m learning **Digital Marketing and currently Evolving**
 
 - 👨‍💻 Some of my projects are available here at my github profile. [https://cybersam404.github.io/](https://cybersam404.github.io/)
 
